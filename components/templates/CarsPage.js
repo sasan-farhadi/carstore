@@ -10,5 +10,4 @@ function CarsPage({ data }) {
     </div>
   );
 }
-
 export default CarsPage;
